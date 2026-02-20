@@ -51,9 +51,23 @@ As a user, you have the right to:
   - Opt-out of data collection where applicable.
   - Sign out to stop cloud synchronization of your data.
 
-8. Contact Us
+8. US State Privacy Rights
+If you are a resident of California, Virginia, Colorado, Connecticut, Utah, or other US states with privacy legislation, you may have additional rights regarding your personal information:
+
+  - Right to Know: You have the right to request information about the categories and specific pieces of personal information we have collected about you.
+  - Right to Delete: You have the right to request deletion of your personal information, subject to certain exceptions.
+  - Right to Opt-Out of Sale: We do not sell your personal information. However, you have the right to opt-out of any future sale of your personal information.
+  - Right to Non-Discrimination: We will not discriminate against you for exercising any of your privacy rights.
+  - Right to Correct: You have the right to request correction of inaccurate personal information.
+  - Right to Limit Use of Sensitive Personal Information: You may limit the use of sensitive personal information, if applicable.
+
+To exercise these rights, please contact us at emerald.dunadan@gmail.com. We will respond to verifiable requests within the timeframe required by applicable law (typically 45 days).
+
+For California residents: Under the California Consumer Privacy Act (CCPA) as amended by the CPRA, you may designate an authorized agent to make requests on your behalf. We may require verification of your identity and confirmation that you authorized the agent.
+
+9. Contact Us
 If you have questions or concerns about this Privacy Policy, please contact us at:
 emerald.dunadan@gmail.com
 
-9. Updates to This Privacy Policy
+10. Updates to This Privacy Policy
 We may update this Privacy Policy from time to time to reflect changes in our practices or services. Updates will be reflected on this page with a new "Effective Date." We encourage you to review this policy periodically.

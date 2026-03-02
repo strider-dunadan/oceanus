@@ -1,1 +1,95 @@
+Terms of Use
+Effective Date: 02.03.2026
+App Name: Oceanus
 
+1. Acceptance of Terms
+By downloading, installing, or using the Oceanus app ("App"), you agree to be bound by these Terms of Use. If you do not agree to these terms, do not use the App.
+
+2. Description of Service
+Oceanus is a mobile application that provides:
+  - Marine species identification using AI-powered image recognition.
+  - A comprehensive catalog of marine species with detailed information.
+  - Personal collection tracking of identified species.
+  - Detection history and favorites management.
+  - Cloud synchronization of your data when signed in with Google.
+
+3. User Accounts
+  - You may use certain features of the App without creating an account.
+  - To access full features, including cloud sync and detection history, you may sign in with your Google account.
+  - You are responsible for maintaining the confidentiality of your account credentials.
+  - You agree to provide accurate and complete information when creating an account.
+
+4. Acceptable Use
+You agree not to:
+  - Use the App for any unlawful purpose or in violation of any applicable laws.
+  - Attempt to reverse engineer, decompile, or disassemble the App.
+  - Use the App to harass, abuse, or harm others.
+  - Upload malicious content or attempt to compromise App security.
+  - Use automated systems or bots to access the App.
+  - Circumvent any usage limits or access restrictions.
+
+5. Species Identification Disclaimer
+  - The AI-powered species identification feature is provided for informational and educational purposes only.
+  - Identification results may not always be accurate and should not be relied upon for safety-critical decisions.
+  - We do not guarantee the accuracy, completeness, or reliability of species identification results.
+  - Always exercise caution when interacting with marine life. Some species may be dangerous or protected by law.
+  - The App should not be used as a substitute for professional marine biology expertise.
+
+6. Intellectual Property
+  - The App, including its design, features, content, and code, is owned by the App developer and protected by intellectual property laws.
+  - Species images, descriptions, and scientific data are provided for personal, non-commercial use only.
+  - You may not reproduce, distribute, or create derivative works from App content without permission.
+
+7. Subscriptions and Payments
+  - The App offers premium features through in-app subscriptions.
+  - Subscriptions are processed through Google Play Billing.
+  - Subscription terms, pricing, and renewal policies are displayed at the time of purchase.
+  - You may manage or cancel subscriptions through your Google Play account settings.
+  - Refunds are subject to Google Play's refund policies.
+
+8. User-Generated Content
+  - Images you capture using the App for species detection remain your property.
+  - By using the App, you grant us a limited license to process your images for species identification purposes.
+  - We do not claim ownership of your captured images.
+
+9. Privacy
+Your use of the App is also governed by our Privacy Policy, which describes how we collect, use, and protect your information. Please review the Privacy Policy for more details.
+
+10. Limitation of Liability
+  - The App is provided "as is" without warranties of any kind, express or implied.
+  - We are not liable for any damages arising from your use of the App, including but not limited to direct, indirect, incidental, or consequential damages.
+  - We are not responsible for any harm resulting from reliance on species identification results.
+  - Our total liability shall not exceed the amount you paid for the App or subscription in the past 12 months.
+
+11. Indemnification
+You agree to indemnify and hold harmless the App developer from any claims, damages, or expenses arising from your use of the App or violation of these Terms.
+
+12. Third-Party Services
+  - The App integrates with third-party services including Google, Firebase, and Gemini AI.
+  - Your use of these services is subject to their respective terms and privacy policies.
+  - We are not responsible for the availability, accuracy, or content of third-party services.
+
+13. Modifications to the App
+We reserve the right to:
+  - Modify, suspend, or discontinue the App or any features at any time.
+  - Update these Terms of Use as needed.
+  - Change subscription pricing with reasonable notice.
+
+14. Termination
+  - You may stop using the App at any time by uninstalling it.
+  - We may terminate or suspend your access to the App for violation of these Terms.
+  - Upon termination, your right to use the App ceases immediately.
+  - You may request deletion of your account and data by contacting us.
+
+15. Governing Law
+These Terms shall be governed by and construed in accordance with applicable laws, without regard to conflict of law principles.
+
+16. Severability
+If any provision of these Terms is found to be unenforceable, the remaining provisions shall continue in full force and effect.
+
+17. Contact Us
+If you have questions or concerns about these Terms of Use, please contact us at:
+emerald.dunadan@gmail.com
+
+18. Updates to These Terms
+We may update these Terms of Use from time to time to reflect changes in our services or legal requirements. Updates will be reflected on this page with a new "Effective Date." Continued use of the App after changes constitutes acceptance of the updated Terms.
